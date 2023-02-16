@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "495502445849",
+    "firebase_url": "https://apricart-81547-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "apricart-81547",
+    "storage_bucket": "apricart-81547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495502445849:android:d700c307bb45d56b97c988",
+        "android_client_info": {
+          "package_name": "com.apricart.consumerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495502445849-o6d0r9shukl4gbp7vo882vq3qihokck2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX8WQXCCPgHBthTTscUr7mnE1tZ26xAtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495502445849-o6d0r9shukl4gbp7vo882vq3qihokck2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "495502445849-0edbiv9u5ubir8a2nq6mahg6op7mr722.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apricart.consumer-app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495502445849:android:9c7b4464ff3e7a9697c988",
+        "android_client_info": {
+          "package_name": "com.apricart.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495502445849-o6d0r9shukl4gbp7vo882vq3qihokck2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX8WQXCCPgHBthTTscUr7mnE1tZ26xAtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495502445849-o6d0r9shukl4gbp7vo882vq3qihokck2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "495502445849-0edbiv9u5ubir8a2nq6mahg6op7mr722.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apricart.consumer-app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495502445849:android:15b0912466f0284297c988",
+        "android_client_info": {
+          "package_name": "com.assorttech.airoso_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495502445849-o6d0r9shukl4gbp7vo882vq3qihokck2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX8WQXCCPgHBthTTscUr7mnE1tZ26xAtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495502445849-o6d0r9shukl4gbp7vo882vq3qihokck2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "495502445849-0edbiv9u5ubir8a2nq6mahg6op7mr722.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apricart.consumer-app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495502445849:android:9fae6eb2d5c1e59897c988",
+        "android_client_info": {
+          "package_name": "com.assorttech.airoso_app.stage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495502445849-o6d0r9shukl4gbp7vo882vq3qihokck2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX8WQXCCPgHBthTTscUr7mnE1tZ26xAtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495502445849-o6d0r9shukl4gbp7vo882vq3qihokck2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "495502445849-0edbiv9u5ubir8a2nq6mahg6op7mr722.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apricart.consumer-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
